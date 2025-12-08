@@ -3,6 +3,7 @@
 ### JAVA
 
 ### GOLANG
+- [设置「GOPROXY」代理](/dev/golang/设置「GOPROXY」代理.md)
 
 ### NodeJS
 
