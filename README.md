@@ -1,6 +1,7 @@
 # 知识库
 ## 开发语言相关
 ### JAVA
+- [文件读取方法总结](/dev/java/文件读取方法总结.md)
 
 ### GOLANG
 - [设置「GOPROXY」代理](/dev/golang/设置「GOPROXY」代理.md)
