@@ -11,6 +11,7 @@
 ## 系统相关
 ### Linux
 - [修改密码](/os/linux/修改密码.md)
+- [从服务器上传下载文件](/os/linux/从服务器上传下载文件.md)
 
 ### Windows
 - [查看端口占用](/os/windows/查看端口占用.md)
