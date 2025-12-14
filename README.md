@@ -15,6 +15,7 @@
 - [从服务器上传下载文件](/os/linux/从服务器上传下载文件.md)
 - [安装「Docker-CE」](/os/linux/安装「Docker-CE」.md)
 - [从「Docker」容器内拷贝文件](/os/linux/从「Docker」容器内拷贝文件.md)
+- [清除「Docker」缓存](/os/linux/清除「Docker」缓存.md)
 
 ### Windows
 - [查看端口占用](/os/windows/查看端口占用.md)
